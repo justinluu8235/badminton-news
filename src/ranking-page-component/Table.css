@@ -1,0 +1,67 @@
+#rankingTableBody{
+    background-color: white;
+    
+}
+
+#rankingTableContainer{
+    width: 1180px;
+    margin: 0 auto;
+}
+
+#columnNames{
+   color: #333
+}
+
+.rankingTable{
+    border-collapse:separate;
+    border-spacing:0;
+    width:100%
+   
+}
+tr th {
+    height: 52px;
+    vertical-align: middle;
+    color: #999;
+    padding-right:15px;
+    border: solid;
+  border-width: 1px 0;
+
+}
+
+tr.col-rank {
+    vertical-align: middle;
+    width: 125px;
+    
+}
+
+tr .col-player {
+    width: 335px;
+    text-align: left;
+}
+
+tr .col-country {
+    width: 120px;
+    text-align: center;
+}
+tr .col-tmt {
+    text-align: center;
+}
+
+tr .col-points {
+    text-align: center;
+}
+
+tr .col-breakdown {
+    text-align: center;
+}
+
+.table-image{
+    width:28px;
+    height:28px;
+}
+
+td{
+    line-height:2.5;
+    border: solid;
+  border-width: .2px 0;
+}

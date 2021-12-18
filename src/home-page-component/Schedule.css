@@ -1,5 +1,5 @@
 #scheduleBody{
-    background-image: url('./images/download.jpeg');
+    background-image: url('../images/download.jpeg');
     display:flex;
     flex-direction: column;
     justify-content: center;

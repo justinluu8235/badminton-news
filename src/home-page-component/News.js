@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './News.css';
-import featuredImage from './images/featured-news.jpeg';
+import featuredImage from '../images/featured-news.jpeg';
 
 class News extends Component {
     render() {

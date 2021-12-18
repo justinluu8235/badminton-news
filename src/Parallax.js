@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import './Parallax.css';
-import Banner from './Banner';
-import News from './News';
-import Schedule from './Schedule'
-import Navbar from './Navbar'
+import Banner from './home-page-component/Banner';
+import News from './home-page-component/News';
+import Schedule from './home-page-component/Schedule'
+import Navbar from './home-page-component/Navbar'
 
 class Parallax extends Component {
     render() {
