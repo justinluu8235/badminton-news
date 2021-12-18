@@ -1,0 +1,9 @@
+ #banner{
+    background-image: url('../public/images/banner.jpeg');
+    
+    background-size:cover;
+}
+
+#bannerBackground{
+    background-color:rgba(15,15,15,.5);
+}
