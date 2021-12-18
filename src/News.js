@@ -8,7 +8,7 @@ class News extends Component {
             <section id="parallax-1" className="hero is-large " >
                 <div className="hero-body" id="newsSection">
                     <h2 class="newstitle">
-                        <a href="https://bwfbadminton.com/news/">
+                        <a href="https://bwfbadminton.com/news/" class="newsTitleText">
                             Latest Stories
                         </a>
                     </h2>

@@ -17,7 +17,7 @@ class Schedule extends Component {
 
                                 <div class="scedule-text-info">
                                     <h2>HSBC BWF World Tour Finals 2021(New dates)</h2>
-                                    <h3>1 - 5 December</h3>
+                                    <h3 title="scheduleDate1">1 - 5 December</h3>
                                 </div>
 
                                 <div class="schedule-cat-logo">
@@ -33,7 +33,7 @@ class Schedule extends Component {
 
                                 <div class="scedule-text-info">
                                     <h2>TotalEnergies BWF World Championships 2021</h2>
-                                    <h3>12 - 19 December</h3>
+                                    <h3 title="scheduleDate2">12 - 19 December</h3>
                                 </div>
 
                                 <div class="schedule-cat-logo">
@@ -44,7 +44,7 @@ class Schedule extends Component {
 
                             <div class="schedule-item">
                                 <div class="schedule-logo">
-                                <img class="schedule-logo last" title="scheduleLogo1" src="https://extranet.bwfbadminton.com/docs/events/4426/logo-colour/india_open.jpg" alt=""/>
+                                <img class="schedule-logo last"  src="https://extranet.bwfbadminton.com/docs/events/4426/logo-colour/india_open.jpg" alt=""/>
                                 </div>
 
                                 <div class="scedule-text-info">

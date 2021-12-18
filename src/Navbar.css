@@ -1,0 +1,28 @@
+#navbar{
+    background-color:#df2027;
+    position:sticky;
+    top: 0;
+    z-index: 100;
+}
+
+#imageBackground{
+    height: 50px;
+    width:100px;
+    transform: skewX(
+10deg);
+    background-color: white;
+}
+
+.desktop-main-logo{
+    position:relative;
+    top:10px;
+}
+
+.navbar-item{
+    color:white;
+    text-transform: uppercase;
+}
+
+.newsTitleText{
+    color:black;
+}
