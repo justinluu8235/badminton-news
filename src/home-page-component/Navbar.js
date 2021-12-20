@@ -35,7 +35,7 @@ class Navbar extends Component {
                                 <a class="navbar-item">
                                     Match Centre
                                 </a>
-                                <a class="navbar-item">
+                                <a class="navbar-item" title="chinese-translation">
                                     中文
                                 </a>
                             </div>

@@ -1,0 +1,61 @@
+
+.individualPlayer{
+    display:flex;
+    flex-direction:column;
+
+}
+
+.playerImage{
+    width: 90px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+}
+
+.playerPhoto{
+    transition: all .35s ease-in-out;
+    overflow: hidden;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    box-shadow: 1px 1px 5px 1px rgb(51 51 51 / 30%);
+    flex-shrink: 0;
+    will-change: transform;
+}
+
+.playerFlag{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+    left: 3px;
+}
+
+.playerFlag img{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+}
+
+.playerName{
+    width: 100%;
+    display: flex;
+    text-align: center;
+    margin-top: 15px;
+    transition: .35s color ease-in-out;
+}
+
+.name-first{
+    font-weight: 300;
+    display: block;
+    line-height: 16px;
+}
+
+.name-last{
+    font-weight: 900;
+    display: block;
+    line-height: 16px;
+}

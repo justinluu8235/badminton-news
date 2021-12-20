@@ -1,0 +1,20 @@
+.playerDisplay{
+    height:400px;
+    max-width:100%;
+    background-color: #fff;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.playerDisplayContainer{
+    width: 1180px;
+    /* background-color: grey; */
+    height: 150px;
+    margin-bottom:10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 18px;
+    transition: all .35s ease-in-out;
+}

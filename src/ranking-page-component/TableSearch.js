@@ -9,7 +9,7 @@ class TableSearch extends Component {
                     <div className='ranking-search-input'>
                         <i  class="material-icons">search</i>
                      
-                        <input id="input-3" type="text" placeholder="Search player/country..."/>
+                        <input id="input-3" type="text" placeholder="Search player/country..." title="table-search-bar"/>
                     </div>
                 </div>
             </div>

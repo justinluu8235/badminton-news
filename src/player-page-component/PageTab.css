@@ -1,0 +1,36 @@
+.page-tab{
+    height:100px;
+    background-color: #efefef;
+    box-shadow: 0 2px 6px rgb(15 15 15 / 20%);
+    z-index: 2;
+}
+
+.page-names{
+    display:flex;
+    flex-direction: row;
+    justify-content:center;
+    align-content:center;
+}
+
+.badmintonTab, .para-badmintTab{
+    height: 100px;
+    width:350px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.badmintonTab{
+    box-shadow: 0 10px 6px rgba(245, 5, 5, 0.2);
+}
+
+.para-badmintTab{
+    box-shadow: 0 10px 6px rgba(10, 226, 93, 0.2);
+}
+
+
+.tabText{
+    font-size: 20px;
+}
+

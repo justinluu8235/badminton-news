@@ -9,7 +9,7 @@ class Table extends Component {
                 <div className="container" id="rankingTableContainer" >
                     <table class="rankingTable" >
                         <thead>
-                            <tr id='columnNames'>
+                            <tr id='columnNames' title="column-names">
                             <th class="col-rank">RANK</th> 
                             <th class="col-player">NAME</th> 
                             <th class="col-country">NATION</th> 
@@ -19,7 +19,7 @@ class Table extends Component {
                             </tr>
                         </thead>
                         <tbody>
-                            <tr>
+                            <tr title="first-row-data">
                                 <td>1</td>
                                 <td>Viktor AXELSEN</td>
                                 <td><img class="table-image" width="48" src="https://extranet.bwfbadminton.com/docs/flags-svg/denmark.svg" title="Denmark"/></td>
