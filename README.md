@@ -80,4 +80,5 @@ test('renders the copyright', () => {
   expect(element).toBeInTheDocument();
 });
 ```
-
+Tests passing
+  - ![image](./test-pass.png)
